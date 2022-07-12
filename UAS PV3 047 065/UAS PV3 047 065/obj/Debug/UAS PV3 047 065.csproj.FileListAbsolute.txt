@@ -1,0 +1,16 @@
+D:\UAS PV3 047 065\UAS PV3 047 065\obj\Debug\UAS PV3 047 065.csproj.AssemblyReference.cache
+D:\UAS PV3 047 065\UAS PV3 047 065\obj\Debug\UAS_PV3_047_065.Form1.resources
+D:\UAS PV3 047 065\UAS PV3 047 065\obj\Debug\UAS_PV3_047_065.Properties.Resources.resources
+D:\UAS PV3 047 065\UAS PV3 047 065\obj\Debug\UAS PV3 047 065.csproj.GenerateResource.cache
+D:\UAS PV3 047 065\UAS PV3 047 065\obj\Debug\UAS PV3 047 065.csproj.CoreCompileInputs.cache
+D:\UAS PV3 047 065\UAS PV3 047 065\bin\Debug\UAS PV3 047 065.exe.config
+D:\UAS PV3 047 065\UAS PV3 047 065\bin\Debug\UAS PV3 047 065.exe
+D:\UAS PV3 047 065\UAS PV3 047 065\bin\Debug\UAS PV3 047 065.pdb
+D:\UAS PV3 047 065\UAS PV3 047 065\obj\Debug\UAS PV3 047 065.exe
+D:\UAS PV3 047 065\UAS PV3 047 065\obj\Debug\UAS PV3 047 065.pdb
+D:\UAS PV3 047 065\UAS PV3 047 065\obj\Debug\UAS_PV3_047_065.Form2.resources
+D:\UAS PV3 047 065\UAS PV3 047 065\bin\Debug\MySql.Data.dll
+D:\UAS PV3 047 065\UAS PV3 047 065\obj\Debug\UAS PV3 047 065.csproj.CopyComplete
+D:\UAS PV3 047 065\UAS PV3 047 065\obj\Debug\UAS_PV3_047_065.Form3.resources
+D:\UAS PV3 047 065\UAS PV3 047 065\obj\Debug\UAS_PV3_047_065.Form4.resources
+D:\UAS PV3 047 065\UAS PV3 047 065\obj\Debug\UAS_PV3_047_065.Form5.resources
